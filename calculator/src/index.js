@@ -288,3 +288,5 @@ ReactDOM.render(<Calculator />, document.getElementById('root'));
 registerServiceWorker();
 
 // Oye chakde phatte
+//git pull origin master --ff-only
+//git pull origin master --rebase
