@@ -290,3 +290,4 @@ registerServiceWorker();
 // Oye chakde phatte
 //git pull origin master --ff-only
 //git pull origin master --rebase
+//![Calculator Image](ReactCalculator.png?raw=true)
