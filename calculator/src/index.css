@@ -1,0 +1,101 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.Calculator{
+  position: relative;
+  margin: auto;
+  top: 100px;
+  height: 400px;
+  width: 300px;
+  background-color: darkblue;
+}
+
+.Screen{
+  position: relative;
+  top: 10px;
+  height: 80px;
+  width: 90%;
+  margin: auto;
+  background-color: lightblue;
+}
+
+.Title{
+  position: relative;
+  left: 5px;
+  top: 5px;
+  font-family: 'Times New Roman', Times, serif;
+  color: gold;
+}
+
+
+.NumberKey{
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  border-radius: 20%;
+  background-color: orange;
+  color: black;
+  left: 20px;
+}
+
+.NumberKeyPad{
+  position: absolute;
+  /*border: solid;*/
+  background-color: slategray;
+  left: 15px;
+  top: 180px;
+  height: 200px;
+  width: 210px;
+}
+
+.EnterKey{
+  position: absolute;
+  width: 60px;
+  height: 20px;
+  border-radius: 20%;
+  background-color: red;
+  color: white;
+}
+
+.ClearKey{
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  border-radius: 40%;
+  background-color: greenyellow;
+  color: black;
+}
+
+.CancelKey{
+  position: absolute;
+  width: 50px;
+  height: 20px;
+  border-radius: 10%;
+  background-color: darkgreen;
+  color: black;
+}
+
+.OperatorKey{
+  position: absolute;
+  width: 55px;
+  height: 20px;
+  border-radius: 15%;
+  background-color: maroon;
+  color: antiquewhite;
+  left: 20px;
+}
+
+
+.UpKey{
+  position: absolute;
+  width: 30px;
+  height: 20px;
+  border-radius: 40%;
+  background-color: black;
+  color: white;
+}
+
+/*Oye chakde phatte*/
